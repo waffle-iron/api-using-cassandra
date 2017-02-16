@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/degnome/api-using-cassandra.png?label=ready&title=Ready)](https://waffle.io/degnome/api-using-cassandra)
 # api-using-cassandra
 
 Microservice Sample using Cassandra as a backing store.
